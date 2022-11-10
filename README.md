@@ -9,9 +9,9 @@
 2. [Chapter II](#chapter-ii) \
     2.1. [General rules](#general-rules)
 3. [Chapter III](#chapter-iii) \
-    3.1. Постановка карьерной цели     
-    3.2. Ценности     
-    3.3. Карьерная цель     
+    3.1. Карьерные приоритеты    
+    3.2. Карьерная цель    
+    3.3. Карьерная траектория     
 4. [Chapter IV](#chapter-iv) \
     [Задача 1](#задача-1)    
 5. [Chapter V](#chapter-v) 
