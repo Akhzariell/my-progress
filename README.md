@@ -17,6 +17,9 @@
 5. [Chapter V](#chapter-v) 
 
 <h2 id="chapter-i" >Chapter I</h2>
+
+![Иллюстрация к проекту](misc/images/Illustration_00.jpeg)  
+
 <h2 id="preamble">Preamble</h2> 
 
 Любой поиск работы можно разделить на несколько этапов: 
