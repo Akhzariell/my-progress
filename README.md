@@ -109,7 +109,7 @@ For example:
 | --- | --- | --- | --- |
 | To become a CTO in a startup in 5 years and earn 4,000 - 4,500 USD. | Now I'm a student at School 21. I know JS and use React library. I have a relatively small student portfolio. | \- Complete the training to the end.<br /> \- Get a job first in a large company to work with a mentor/manager so I can learn from experience<br /> \- Possibly receive additional training in team management<br /> \- Constantly improve my skills<br /> \- Build a portfolio<br /> \- Solve algorithms | 1. Complete the training<br /> 2. Create a resume and prepare a portfolio<br /> 3. Successfully pass an interview and get a job<br /> 4. Work in a team of developers for the first 2-3 years, be initiative and become a team leader<br /> 5. Become a head of the department in 4-5 years, leave for the startup and become CTO |
 
-Read more about the [method](https://hr-portal.ru/story/model-grow-metod-nastavnichestva)
+Read more about the [method](https://hr-portal.ru/story/model-grow-metod-nastavnichestva).
 
 **SMART**
 
@@ -125,7 +125,7 @@ After deciding on the goal, you need to define your values. Each person has diff
 - Society/ecology (being healthy and sustainable),
 - Self-expression/creativity, etc.
 
-Read more about ["Smart"] (https://in-scale.ru/blog/celi-smart/)
+Read more about ["Smart"](https://in-scale.ru/blog/celi-smart/).
 
 Understanding your values will help you decide on a list of companies that are the best fit for you and that you want to pursue.
 
@@ -174,5 +174,5 @@ To accomplish this task, you need to map out your career path for the next 3-5 y
 3. In the third column, write where you want to be in 5 years and what is important to you in your job. Your answers should be based on your values and your career balance wheel.
 4. Leave the second column blank for now.
 
-Please leave feedback on the project in this [form](https://forms.gle/vFexLEpTEgAJVRwY8).
+Please leave feedback on the project in [this form](https://forms.gle/vFexLEpTEgAJVRwY8).
 
