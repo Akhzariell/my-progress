@@ -163,7 +163,7 @@ To accomplish this task, you need to map out your career path for the next 3-5 y
 
 1. Write down at least five job selection criteria and rate the status of these criteria on a scale of 1 to 10.
 2. Make a second wheel with the same criteria and rate them again from 1 to 10 to show how you would like these criteria to be in the future.
-3. For each criterion, think of and write down the action steps to show what you'll do to get to the desired state. We recommend that you do this exercise in MIRO. Please upload a visualization of the final wheel (2 pieces) to the _src_ folder.
+3. For each criterion, think of and write down the action steps to show what you'll do to get to the desired state. We recommend performing this task using MIRO or a similar tool. Please upload a visualization of the final wheel (2 pieces) to the _src_ folder.
 
 ## Exercise 01
 
