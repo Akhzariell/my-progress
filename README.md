@@ -2,6 +2,8 @@
 
 In this project, you'll lay the foundation for your career trajectory, identify career goals, and understand what's important to prioritize.
 
+💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -174,5 +176,4 @@ To accomplish this task, you need to map out your career path for the next 3-5 y
 3. In the third column, write where you want to be in 5 years and what is important to you in your job. Your answers should be based on your values and your career balance wheel.
 4. Leave the second column blank for now.
 
-Please leave feedback on the project in [this form](https://forms.gle/vFexLEpTEgAJVRwY8).
 
