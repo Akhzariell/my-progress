@@ -144,7 +144,7 @@ We advise you to divide the career goal into two periods to have a clear underst
 | --- | --- | --- |
 | At this point, you describe:<br /> \- Your current career status<br /> \- Skills and knowledge you possess<br /> \- Resources available for development | You will fill in this column later, after completing exercises on job analytics and identifying your strengths. Then you will need to write down the action plan that you will be ready to implement to achieve your career goal. | Describe the desired position that you want to take up in 5 years, for example:<br />*CTO in an educational startup working remotely with a team of 4-5 developers and a salary of 4,500 USD with benefits*.<br />For each period, you can use the SMART or GROW methodology. |
 
-You can draw the final career plan in MIRO. This platform provides a handy way to break up time periods and add necessary updates to your individual career track. It is preferable to develop a step-by-step career plan that includes:
+You can draw the final career plan in HOLST. This platform provides a handy way to break up time periods and add necessary updates to your individual career track. It is preferable to develop a step-by-step career plan that includes:
 
 1. Skills you currently possess;
 2. Skills you lack to achieve a career goal;
